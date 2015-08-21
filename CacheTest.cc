@@ -1,5 +1,4 @@
 #include<cstdio>
-#include<ctime>
 
 #include"utils/Timer.h"
 using namespace std;
